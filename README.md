@@ -13,3 +13,4 @@ The script is searcing and push by the Memeber Name, So boat boards Member Name 
 
 
 Start commend: 'npm run dev'"# mondayApi" 
+"# monday-api-script" 
